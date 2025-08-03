@@ -18,6 +18,9 @@ This repository is a part of my journey to master Data Structures and Algorithms
 - Solved basic problems using conditional logic and function abstraction.
 - ✅ Folder: `Day-2-Function-if-else`
 
----
+### ✅ Day 3 - Loop 01
+
+- Practiced writing the for loop and while loop
+- Solved basic problems using for loop like print number, check even or odds
 
 ## 📁 Repository Structure
