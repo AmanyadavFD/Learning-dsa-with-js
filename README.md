@@ -23,4 +23,11 @@ This repository is a part of my journey to master Data Structures and Algorithms
 - Practiced writing the for loop and while loop
 - Solved basic problems using for loop like print number, check even or odds
 
+### ✅ Day 3 - Loop 01
+
+- Solved the basic question based on the loop, functions and array.
+- Searche Element
+- Count the Negative Number
+- Largest Numbers
+
 ## 📁 Repository Structure
