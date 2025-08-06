@@ -40,4 +40,10 @@ This repository is a part of my journey to master Data Structures and Algorithms
 - Learned about deep in the loop
 - two level of nested loop
 
+### ✅ Day 6 - Pattern Printing with Nested Loops
+
+- Practiced nested loops by printing different patterns using stars \* and numbers.
+- Covered increasing and decreasing triangle patterns.
+- Implemented left and right aligned pyramids.
+
 ## 📁 Repository Structure
