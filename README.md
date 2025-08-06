@@ -30,7 +30,7 @@ This repository is a part of my journey to master Data Structures and Algorithms
 - Count the Negative Number
 - Largest Numbers
 
-### ✅ Day 4 - Loop 01
+### ✅ Day 4 -Second Largest
 
 - Solved the
 - Find the Second Largest Number in an Array
