@@ -23,24 +23,24 @@ This repository is a part of my journey to master Data Structures and Algorithms
 - Practiced writing the for loop and while loop
 - Solved basic problems using for loop like print number, check even or odds
 
-### ✅ Day 3 - Loop 01
+### ✅ Day 4 - Loops 02
 
 - Solved the basic question based on the loop, functions and array.
 - Searche Element
 - Count the Negative Number
 - Largest Numbers
 
-### ✅ Day 4 -Second Largest
+### ✅ Day 5 -Second Largest
 
 - Solved the
 - Find the Second Largest Number in an Array
 
-### ✅ Day 5 - Loop in Loop
+### ✅ Day 6 - Loop in Loop
 
 - Learned about deep in the loop
 - two level of nested loop
 
-### ✅ Day 6 - Pattern Printing with Nested Loops
+### ✅ Day 7 - Pattern Printing with Nested Loops
 
 - Practiced nested loops by printing different patterns using stars \* and numbers.
 - Covered increasing and decreasing triangle patterns.
