@@ -35,7 +35,7 @@ This repository is a part of my journey to master Data Structures and Algorithms
 - Solved the
 - Find the Second Largest Number in an Array
 
-### ✅ Day 5 - Loop 02
+### ✅ Day 5 - Loop in Loop
 
 - Learned about deep in the loop
 - two level of nested loop
