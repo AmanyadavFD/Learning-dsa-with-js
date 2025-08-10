@@ -1,49 +1,110 @@
 # 🚀 Learning DSA with JavaScript
 
-This repository is a part of my journey to master Data Structures and Algorithms (DSA) using JavaScript. Each day I’m tackling fundamental programming concepts and implementing various DSA problems from scratch.
+This repository is part of my journey to **master Data Structures and Algorithms (DSA)** using JavaScript.  
+Every day, I solve programming problems — starting from the basics and gradually moving to advanced topics — while documenting my learnings.
 
 ---
 
 ## 📅 Daily Progress
 
-### ✅ Day 1 - Programming 101
+### ✅ Day 1 – Programming 101
 
 - Learned how to write and run basic JavaScript programs.
-- Covered fundamentals like variables, data types, and basic operations.
-- ✅ Folder: `Day-1-Programming-101`
+- Covered **variables**, **data types**, and **basic operations**.
+- 📂 Folder: `Day-1-Programming-101`
 
-### ✅ Day 2 - Functions & If-Else
+---
 
-- Practiced writing functions and using `if-else` control flow.
-- Solved basic problems using conditional logic and function abstraction.
-- ✅ Folder: `Day-2-Function-if-else`
+### ✅ Day 2 – Functions & If-Else
 
-### ✅ Day 3 - Loop 01
+- Practiced writing **functions** and using `if-else` control flow.
+- Solved problems using **conditional logic** and **function abstraction**.
+- 📂 Folder: `Day-2-Function-if-else`
 
-- Practiced writing the for loop and while loop
-- Solved basic problems using for loop like print number, check even or odds
+---
 
-### ✅ Day 3 - Loop 01
+### ✅ Day 3 – Loops 01
 
-- Solved the basic question based on the loop, functions and array.
-- Searche Element
-- Count the Negative Number
-- Largest Numbers
+- Practiced `for` and `while` loops.
+- Solved problems like:
+  - Printing numbers
+  - Checking even/odd
 
-### ✅ Day 4 - Loop 01
+---
 
-- Solved the
-- Find the Second Largest Number in an Array
+### ✅ Day 4 – Loops 02
 
-### ✅ Day 5 - Loop 02
+- Solved problems combining loops, functions, and arrays:
+  - Search Element
+  - Count Negative Numbers
+  - Find Largest Number
 
-- Learned about deep in the loop
-- two level of nested loop
+---
 
-### ✅ Day 6 - Pattern Printing with Nested Loops
+### ✅ Day 5 – Second Largest Number
 
-- Practiced nested loops by printing different patterns using stars \* and numbers.
-- Covered increasing and decreasing triangle patterns.
-- Implemented left and right aligned pyramids.
+- Problem: **Find the Second Largest Number in an Array**
+
+---
+
+### ✅ Day 6 – Loop in Loop
+
+- Learned about **nested loops** (loop inside a loop).
+- Solved two-level nested loop problems.
+
+---
+
+### ✅ Day 7 – Pattern Printing with Nested Loops
+
+- Practiced **nested loops** by printing:
+  - Star patterns (`*`)
+  - Number patterns
+  - Increasing & decreasing triangles
+  - Left & right-aligned pyramids
+
+---
+
+### ✅ Day 8–11 – Number Manipulation & Complexity Basics
+
+**Problems Solved:**
+
+- **Count Digit** – Count digits in a number efficiently.
+- **Palindrome Number** – Check if a number reads the same backwards.
+- **Reverse Integer** – Reverse an integer, handling negatives & edge cases.
+- **Time & Space Complexity** – Revised complexity analysis for optimized solutions.
+
+**Key Learnings:**
+
+- Using `%` (modulus) and `/` (division) for digit extraction.
+- Looping techniques for number manipulation.
+- Edge case handling for negative numbers & large values.
+- Importance of **Time Complexity** & **Space Complexity**.
+
+**Small Wins:**
+
+- Reduced code length while keeping clarity.
+- Practiced dry-running code to debug faster.
+
+---
+
+### ✅ Day 12–13 – Arrays (Easy/Medium)
+
+- **Remove Duplicates** – Remove repeated elements in-place.
+- **Remove Element** – Remove all occurrences of a given value in-place.
+
+### 🔄 Palindrome Number
+
+Think of a number as a mirror.  
+If you flip it and it still looks the same, it’s a palindrome — like `121` or `1221`.  
+But if it changes (`123` → `321`), it’s not a palindrome.
+
+---
 
 ## 📁 Repository Structure
+
+Each folder contains:
+
+- Problem statement
+- JavaScript solution
+- Complexity analysis
+- Notes & learnings
