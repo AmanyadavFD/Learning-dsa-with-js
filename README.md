@@ -91,3 +91,7 @@ Every day, I solve programming problems — starting from the basics and gradual
 
 - **Remove Duplicates** – Remove repeated elements in-place.
 - **Remove Element** – Remove all occurrences of a given value in-place.
+
+### ✅ Day 14 – Arrays (Easy/Medium)
+
+- **Reverse String** -Reverse String elements in-place.
