@@ -95,3 +95,9 @@ Every day, I solve programming problems — starting from the basics and gradual
 ### ✅ Day 14 – Arrays (Easy/Medium)
 
 - **Reverse String** -Reverse String elements in-place.
+
+### ✅ Day 15 – Arrays (Easy/Medium)
+
+- **Best Time to Buy and Sell Stocks**
+
+### Day 18 -
